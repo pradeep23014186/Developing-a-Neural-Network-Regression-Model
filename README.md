@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:Gnanendran N
+### Name: Pradeep Kumar G
 
-### Register Number: 212223240037
+### Register Number: 212223230150
 
 ```python
 import torch
